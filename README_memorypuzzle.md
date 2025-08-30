@@ -25,7 +25,12 @@ A **fun and interactive memory matching game** built with **Python & Pygame**, d
 4. Press **Esc** to exit  
 
 ---
+## 👩‍💻 About the Author
 
+Kavya K – Aspiring Data Science student & tech enthusiast
+Learning Python, debugging, and Pygame one commit at a time! 🚀
+
+---
 ## 💻 Installation
 ```bash
 # Clone the repo
@@ -39,3 +44,4 @@ pip install pygame
 
 # Run the game
 python memory_puzzle.py
+
