@@ -1,12 +1,7 @@
 # 🏃 Square Run – 2D Platformer Game
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/) 
-[![Pygame](https://img.shields.io/badge/Pygame-2.6-green?logo=pygame&logoColor=white)](https://www.pygame.org/news)
-
 A **side-scrolling 2D platformer** built with **Python & Pygame**.  
 Control the player, avoid obstacles, and reach the exit! Each bug fixed and commit taught me more about **Python, game logic, and debugging**.  
-
-![Square Run Screenshot](screenshot.png) <!-- Add your own screenshot here -->
 
 ---
 
